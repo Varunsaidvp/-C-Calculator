@@ -1,0 +1,11 @@
+Enter A Operation to Calculate +,-,/,*,^,for square root use s :
++
+Enter two numbers n1 and n2 :
+12 8
+12.00+8.00=20.00
+
+Enter A Operation to Calculate +,-,/,*,^,for square root use s :
+s
+Enter a number:
+25
+sqrt(25.00) = 5.00
